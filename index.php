@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title> .:: Login ::. </title>
+<title> .:: AH TA EAZY ::. </title>
 
 <link rel="stylesheet" type="text/css" href="css/formatacao.css">
 <style type="text/css">
